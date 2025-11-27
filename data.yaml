@@ -1,0 +1,9 @@
+path: data
+train: imagen/train
+val: imagen/val
+
+nc: 3
+names:
+  0: organicos
+  1: inorganicos
+  2: reciclables
